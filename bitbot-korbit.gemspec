@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.email       = 'qycpublic@gmail.com'
   s.license     = 'MIT'
   s.files       = `git ls-files`.split("\n")
-  s.homepage    = 'https://github.com/peatio/bitbot-korbit'
+  s.homepage    = 'https://github.com/dasixi/bitbot-korbit'
   s.add_dependency 'korbit'
   s.add_dependency 'bitbot'
 end

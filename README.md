@@ -1,4 +1,1 @@
-bitbot-korbit
-=============
-
-A bitbot adapter for korbit
+BitBot Adapter for Korbit

@@ -1,0 +1,44 @@
+GIT
+  remote: https://github.com/dasixi/korbit.git
+  revision: c75befcc095cf0da938ce94badde1526a5a0db11
+  specs:
+    korbit (0.0.4)
+      activesupport
+
+GIT
+  remote: https://github.com/peatio/bitbot.git
+  revision: 4686717c1c17314789ab77c248887fc6f1056c14
+  specs:
+    bitbot (0.0.1)
+      mongoid
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activemodel (3.2.17)
+      activesupport (= 3.2.17)
+      builder (~> 3.0.0)
+    activesupport (3.2.17)
+      i18n (~> 0.6, >= 0.6.4)
+      multi_json (~> 1.0)
+    builder (3.0.4)
+    i18n (0.6.9)
+    minitest (5.3.3)
+    mongoid (3.1.6)
+      activemodel (~> 3.2)
+      moped (~> 1.4)
+      origin (~> 1.0)
+      tzinfo (~> 0.3.29)
+    moped (1.5.2)
+    multi_json (1.9.3)
+    origin (1.1.0)
+    tzinfo (0.3.39)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bitbot!
+  korbit!
+  minitest (~> 5.3.3)
+  mongoid (~> 3.1.6)
